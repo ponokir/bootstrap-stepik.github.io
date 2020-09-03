@@ -1,0 +1,23 @@
+
+body .wrapper {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 1219px;
+    margin: 0 auto;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+.jumbotron h1 {
+    font-size: 72px;
+}
+.jumbotron p {
+    max-width: 635px;
+}
+.card-text span {
+    font-weight: 700;
+}
+.card-body {
+    background-color: #fff;
+}
